@@ -40,9 +40,9 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
 
  h6 {
    font-size: 14px;
-   text-align: left;
  }
